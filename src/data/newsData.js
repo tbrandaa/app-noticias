@@ -8,13 +8,13 @@ export const newsData = [
     {
         title: "Ryzen 5 9600X3D y Ryzen PRO 9000: AMD revela sus nuevas CPUs de escritorio",
         description: "AMD ha anunciado el lanzamiento de sus nuevas CPUs de escritorio Ryzen 5 9600X3D y Ryzen PRO 9000, que prometen un rendimiento mejorado y características avanzadas para entusiastas y profesionales.",
-        source: "www.hardzone.es",  
+        source: "https://hardzone.es/",  
         image: "https://hardzone.es/app/uploads-hardzone.es/2025/06/ryzen5x3d.jpg?x=800&y=470&quality=80"
     },
     {
         title:"Los fabricantes de gráficas NVIDIA tienen competencia: un fabricante japonés lanza RTX 50 con ventiladores Noctua",
         description: "Un fabricante japonés ha lanzado una nueva tarjeta gráfica RTX 50 con ventiladores Noctua, ofreciendo una alternativa a los productos de NVIDIA en el mercado de tarjetas gráficas.",
-        source: "www.hardzone.es",
+        source: "https://hardzone.es/",
         image: "https://hardzone.es/app/uploads-hardzone.es/2025/06/sycomnoctua0.jpg?x=800&y=470&quality=80"
     }
 ];
