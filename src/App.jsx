@@ -13,6 +13,7 @@ function App() {
             key={indice + news.title}
             title={news.title}
             description={news.description}
+            sourceUrl={news.sourceUrl}
             source={news.source}
             image={news.image}
           />
